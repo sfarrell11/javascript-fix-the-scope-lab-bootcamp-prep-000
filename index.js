@@ -19,4 +19,3 @@ var funkyFunction = function(Funky) {
    return function insdieFunction() {
  return "FUNKY!"
 }
-}

@@ -24,5 +24,8 @@ var funkyFunction = function() {
    }
 }
 var funkyFunction = function() {
-return funkyFunction () 
+return funkyFunction () {
+  retun "FUNKY!"
+  
+}
 }

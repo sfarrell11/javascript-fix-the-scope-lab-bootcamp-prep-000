@@ -18,3 +18,4 @@ var funkyFunction = function() {
  function FUNKY(FUNKY) {
  return "FUNKY!"
 }
+}

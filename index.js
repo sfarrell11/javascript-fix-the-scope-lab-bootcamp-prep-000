@@ -27,6 +27,3 @@ var funkyFunction = function() {
 return funkyFunction ()
   retun "FUNKY!"
 }
-}
-}
-}

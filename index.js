@@ -19,5 +19,6 @@ var funkyFunction = function() {
    }
 }
 return functiontheFunk () {
-"FUNKY"
+return "FUNKY"
+
 

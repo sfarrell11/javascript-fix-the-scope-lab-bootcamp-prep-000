@@ -19,4 +19,3 @@ var funkyFunction = function(outsideFunction) {
  function FUNKY(FUNKY) {
  return "FUNKY!"
 }
-}

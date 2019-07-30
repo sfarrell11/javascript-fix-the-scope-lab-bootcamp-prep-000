@@ -19,3 +19,4 @@ var funkyFunction = function(funkyFunction) {
  return "FUNKY!"
 }
 }
+console.log

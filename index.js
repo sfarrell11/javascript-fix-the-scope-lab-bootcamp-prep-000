@@ -15,12 +15,7 @@ function add2(n) {
 }
 
 var funkyFunction = function(outsideFunction) { 
-  return function insideFunction() var funkyFunction = function(outsideFunction) {
-    18 |   return function insideFunction()
-  > 19 |  function FUNKY(FUNKY) {
-       |  ^
-    20 |  return "FUNKY!"
-    21 | }
+  return function insideFunction()  }
  function FUNKY(FUNKY) {
  return "FUNKY!"
 }
